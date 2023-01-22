@@ -19,6 +19,7 @@ body {
 
 #heading {
     justify-self: start;
+    text-align: center;
     margin-top: -300px;
 }
 
